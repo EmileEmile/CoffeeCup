@@ -1,3 +1,25 @@
+If you use this work in your research, please cite it using the following APA format:
+
+Pascoe, E., Peters, C., & Zojaji, S. (2025). Human obedience and social norm adherence in small groups with virtual agents. In J. Y. C. Chen & G. Fragomeni (Eds.), Virtual, augmented and mixed reality (Lecture Notes in Computer Science, Vol. 15789, pp. 1–20). Springer. https://doi.org/10.1007/978-3-031-93712-5_10
+
+You can also use this BibTeX entry:
+
+@incollection{pascoe2025obedience,
+  author    = {Pascoe, Emile and Peters, Christopher and Zojaji, Sahba},
+  title     = {Human Obedience and Social Norm Adherence in Small Groups with Virtual Agents},
+  booktitle = {Virtual, Augmented and Mixed Reality},
+  editor    = {Chen, Jessie Y. C. and Fragomeni, Gino},
+  series    = {Lecture Notes in Computer Science},
+  volume    = {15789},
+  pages     = {1--20},
+  year      = {2025},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-031-93712-5_10}
+}
+
+This work was originally part of a master's thesis. The original paper can be found here:
+https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1942100&dswid=-1856
+
 ## **For instructions of how to install/use the project please see [WIKI](https://github.com/isir/gretaUnity/wiki)**
 
 # Greta Unity
